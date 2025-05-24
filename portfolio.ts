@@ -27,7 +27,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   email: "mailto:joshuacm635@gmail.com",
-  linkedin: "https://www.linkedin.com/in/",
+  linkedin: "https://www.linkedin.com/in/joshua-martinez-94b978366",
   // github: "https://github.com/1hanzla100",
   // instagram: "https://www.instagram.com/__hanzla100",
   // facebook: 'https://www.facebook.com/1hanzla100',
